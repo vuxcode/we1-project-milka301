@@ -14,3 +14,4 @@ REMEMBER TO "COMMIT" YOUR CHANGES REGULARLY TO SHOW HOW YOU HAVE BUILT THIS PROJ
 # Project Summary
 
 > Before the final submission date you should include a "PROJECT SUMMARY" in this section here.
+This project is colorful kindergarden website desigend to create a friendely and welocoming exprenice for children and parents.
