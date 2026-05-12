@@ -15,3 +15,4 @@ REMEMBER TO "COMMIT" YOUR CHANGES REGULARLY TO SHOW HOW YOU HAVE BUILT THIS PROJ
 
 > Before the final submission date you should include a "PROJECT SUMMARY" in this section here.
 This project is colorful kindergarden website desigend to create a friendely and welocoming exprenice for children and parents. The website inculdes information about the kindergarden, contact detalis,gallary, important goals. The desigen usese bright colors, playful layouts, simple naivgation make the website easy to use and visually attractive.
+The goal of the project is to provide a safe and modren and user-friendly platform.The website have clear menus and goals.
